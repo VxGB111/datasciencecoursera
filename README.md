@@ -1,6 +1,6 @@
-# datasciencecoursera
+# Data Science Track on Coursera
 Repo for Data Science Specialization
 
 
-###Accomplishments:
+####Accomplishments:
 https://www.coursera.org/account/accomplishments/records/RVskk6GLR4R8g6fh
